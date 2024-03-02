@@ -1,0 +1,7 @@
+# Folders to ignore
+bin/
+.vscode/
+.vs/
+
+# Files to ignore
+*.sln
